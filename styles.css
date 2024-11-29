@@ -25,6 +25,16 @@ body {
     border-top-right-radius: 10px;
 }
 
+.basicheader-m {
+    background-color: #6F857D;
+    border-bottom: 1px solid #5C6F68;
+    display: inline-block;
+    width: -webkit-fill-available;
+    vertical-align: bottom;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
 @media (max-width: 768px) {
     body {
         font-size: 20px;
