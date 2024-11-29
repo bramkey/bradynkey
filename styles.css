@@ -18,6 +18,12 @@ body {
 .basicheader {
     background-color: #414E49;
     border-bottom: 1px solid #5C6F68;
+    padding: 5px;
+    display: inline-block;
+    width: -webkit-fill-available;
+    vertical-align: top;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 }
 
 @media (max-width: 768px) {
