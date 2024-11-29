@@ -5,11 +5,13 @@ body {
 
 .basicblock {
     font-family: Arial, Helvetica, sans-serif;
-    border: 1px solid #000;
+    border: 1px solid #5C6F68;
+    border-radius: 10px;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    width: 1000px;
     padding: 10px;
 }
 
