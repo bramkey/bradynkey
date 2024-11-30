@@ -49,6 +49,8 @@ body {
 .basictab {
     background-color: #6F857D;
     vertical-align: bottom;
+    display: inline-block;
+    padding: 5px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
