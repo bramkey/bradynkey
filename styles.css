@@ -27,7 +27,7 @@ p {
   50% { border-color: black; }
 }
 
-.container h1 {
+.hello h1 {
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: .15em solid black; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
