@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background-color: #89a9a7;
+    background-image: url('https://github.com/bramkey/bradynkey/AdobeStock_1023016129.jpeg');
 }
 
 .basicblock {
@@ -13,6 +13,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     width: 800px;
+    opacity: 0.9;
 }
 
 .basicheader {
