@@ -61,7 +61,7 @@ p {
     color: #D2DAD7;
 }
 
-.basictab {
+.basictab-active {
     background-color: #6F857D;
     vertical-align: bottom;
     display: inline-block;
@@ -69,6 +69,20 @@ p {
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     color: #D2DAD7;
+}
+
+.basictab-inactive {
+    background-color: #54645E;
+    vertical-align: bottom;
+    display: inline-block;
+    padding: 5px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    color: #D2DAD7;
+}
+
+.basictab-inactive:hover {
+    background-color: #5d6f68;
 }
 
 .container {
