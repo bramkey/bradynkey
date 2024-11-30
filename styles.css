@@ -15,6 +15,10 @@ p {
     color: #485B56;
 }
 
+.container img {
+    border-radius: 100px;
+}
+
 .basicblock {
     font-family: "Fredoka", sans-serif;
     border-radius: 10px;
