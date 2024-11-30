@@ -33,7 +33,6 @@ p {
 
 .basicheader {
     background-color: #345767;
-    border-bottom: 1px solid #5C6F68;
     padding: 6px 0 0 0;
     display: inline-block;
     width: -webkit-fill-available;
@@ -44,7 +43,6 @@ p {
 
 .basicheader-m {
     background-color: #6F857D;
-    border-bottom: 1px solid #5C6F68;
     display: inline-block;
     padding: 5px;
     width: -webkit-fill-available;
