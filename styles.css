@@ -38,6 +38,10 @@ p {
     blink-caret .75s step-end infinite;
 }
 
+.hello {
+    display: flex;
+}
+
 .container img {
     border-radius: 100px;
 }
