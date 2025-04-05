@@ -44,7 +44,7 @@ p {
 
 .container img {
     border-radius: 100px;
-    size: 30%;
+    width: 80%;
 }
 
 .basicblock {
