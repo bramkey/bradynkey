@@ -43,8 +43,8 @@ p {
 }
 
 .container img {
-    border-radius: 200px;
-    width: 80%;
+    border-radius: 0px;
+    width: 100%;
 }
 
 .r-containerblock {
@@ -52,7 +52,7 @@ p {
     margin: 0;
     width: 50%;
     position: absolute;
-    top: 24%;
+    top: 17.5%;
     left: 50%;
 }
 
