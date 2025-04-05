@@ -47,6 +47,23 @@ p {
     width: 80%;
 }
 
+.r-containerblock {
+    float: left;
+    margin: 0;
+    width: 50%;
+    position: absolute;
+    top: 24%;
+    left: 50%;
+}
+
+.l-containerblock {
+    float: left;
+    margin: 0;
+    width: 50%;
+    position: absolute;
+    top: 50%;
+}
+
 .basicblock {
     font-family: "Fredoka", sans-serif;
     border-radius: 10px;
