@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background-image: url('./images/art-institute-of-chicago-O4_bGIEdxjY-unsplash.jpg');
+    background: linear-gradient(rgba(223, 223, 223, 0.2), rgba(223, 223, 223, 0.2)), url('./images/art-institute-of-chicago-O4_bGIEdxjY-unsplash.jpg');
     height: 100%;
 }
 
