@@ -26,7 +26,6 @@ h1 {
     margin: 0;
     text-align: left;
     padding-left: 45px;
-    padding-bottom: 18px;
     font-size: 50px;
 }
 
@@ -84,6 +83,7 @@ p {
 
 .hello {
     display: flex;
+    padding-bottom: 18px;
 }
 
 .container img {
