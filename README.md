@@ -7,3 +7,4 @@ search bar (to search for keywords like projects, skills)
 add apps & weather to search bar (to search for keywords like projects, skills)
 finish resume page
 finish contact page
+add folder icons to the "desktop"
