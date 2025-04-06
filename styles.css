@@ -21,6 +21,13 @@ body {
     -webkit-align-items: center;
 }
 
+.icon img {
+    width: 50px;
+    display: flex;
+    position: absolute;
+    left: 0;
+}
+
 a {
     text-decoration: none;
 }
