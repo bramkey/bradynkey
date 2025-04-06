@@ -13,8 +13,12 @@ body {
     background-color: rgba(46, 69, 80, 0.96);
     color: #c7cdd6;
     align-content: center;
+    display: flex;
+    display: -webkit-flex;
     justify-content: center;
     -webkit-justify-content: center;
+    align-items: center;
+    -webkit-align-items: center;
 }
 
 h1 {
