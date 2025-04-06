@@ -8,3 +8,5 @@ add apps & weather to search bar (to search for keywords like projects, skills)
 finish resume page
 finish contact page
 add folder icons to the "desktop"
+
+do this https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_loader5
