@@ -48,7 +48,7 @@ p {
 /* typewriter cursor effect */
 @keyframes blink-caret {
   from, to { border-color: transparent }
-  50% { border-color: black; }
+  50% { border-color: rgb(62, 77, 90); }
 }
 
 
@@ -72,7 +72,7 @@ p {
 
 .hello h1 {
   overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: .10em solid black; /* The typwriter cursor */
+  border-right: .10em solid rgb(62, 77, 90); /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
   margin: 0; /* Gives that scrolling effect as the typing happens */
   letter-spacing: .15em; /* Adjust as needed */
