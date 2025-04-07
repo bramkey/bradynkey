@@ -21,6 +21,21 @@ body {
     -webkit-align-items: center;
 }
 
+.footer-searchbar {
+    background-color: #c7cdd6;
+    font-family: "Fredoka", sans-serif;
+    border-radius: 10px;
+    padding: 2px;
+    width: -webkit-fill-available;
+    height: 20px;
+    display: inline-block;
+    text-align: center;
+    color: #485B56;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
 .icon img {
     width: 60px;
     display: flex;
