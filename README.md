@@ -10,3 +10,5 @@ finish contact page
 add folder icons to the "desktop"
 
 do this https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_loader5
+
+command prompt intro into opening the webpage? command prompt pops up, says "load bradyn's portfolio", and then once you click enter it loads
