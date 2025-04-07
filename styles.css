@@ -54,7 +54,14 @@ body {
     bottom: 6%;
 }
 
-.icon-left img, .icon-right img {
+.icon-mid {
+    display: flex;
+    position: absolute;
+    left: 10%;
+    bottom: 40%;
+}
+
+.icon-left img, .icon-right img, .icon-mid img {
     width: 60px;
 }
 
