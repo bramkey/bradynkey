@@ -67,7 +67,7 @@ body {
 
 /* shaking folder animation hover */ 
 .icon-left img:hover, .icon-right img:hover, .icon-mid img:hover {
-    animation: shake 1s;
+    animation: shake 1s ease-in-out;
     animation-iteration-count: 1;
   }
   
