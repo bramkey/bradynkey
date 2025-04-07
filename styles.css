@@ -40,12 +40,15 @@ body {
     margin-left: 5px;
 }
 
-.icon img {
-    width: 60px;
+.icon {
     display: flex;
     position: absolute;
     left: 2%;
     top: 2%;
+}
+
+.icon img {
+    width: 60px;
 }
 
 a {
