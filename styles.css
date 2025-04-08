@@ -116,7 +116,7 @@ p {
 }
 
 
-/* fade in webpage */
+/* fade-in webpage */
 .fade-in {
     opacity: 1;
     animation-name: fadeInOpacity;
