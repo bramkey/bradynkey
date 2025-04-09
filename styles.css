@@ -7,20 +7,19 @@ body {
 /***/
 
 #myCODE {
-    width: 300px;
-    height: 300px;
+    width: 100px;
+    height: 100px;
     background-color: coral;
     color: white;
-    margin: 10px;
+    margin-left: 100px;
     display: none;
     text-align: center;
-    height: 250px;
-    position: relative;
-    width: 250px;
+    position: absolute;
+    z-index: 1;
   }
 
 #myCODE:after {
-  content: '';
+    content: '';
 	position: absolute;
 	left: 0;
 	top: 50%;
@@ -42,6 +41,7 @@ body {
   right: 0;
   position: absolute;
   height: 50px;
+  font-size: 15px;
 }
 
 /***/
